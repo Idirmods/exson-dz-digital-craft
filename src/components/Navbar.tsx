@@ -4,11 +4,10 @@ import { Menu, X, ChevronDown } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const services = [
-  { name: "Télécommunications", href: "/services#telecom" },
-  { name: "Réseaux informatiques", href: "/services#reseaux" },
-  { name: "Systèmes de sécurité", href: "/services#securite" },
-  { name: "Ascenseurs", href: "/services#ascenseurs" },
-  { name: "Études & Monitoring", href: "/services#etudes" },
+  { name: "Technologie de l'information IT", href: "/nos-metiers/technologie-de-linformation-it" },
+  { name: "Systèmes de sécurité", href: "/nos-metiers/systeme-de-securite" },
+  { name: "Ascenseurs", href: "/nos-metiers/ascenseur" },
+  { name: "Études & Monitoring", href: "/nos-metiers/etudes-et-monitoring" },
 ];
 
 const Navbar = () => {

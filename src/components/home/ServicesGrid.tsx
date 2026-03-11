@@ -5,27 +5,27 @@ import { Wifi, ArrowUpDown, Monitor, Shield } from "lucide-react";
 const serviceCards = [
   {
     icon: Wifi,
-    title: "Télécommunications",
-    desc: "Le déploiement de la fibre optique en Algérie est en plein essor et son avenir s'avère très prometteur vue ces avantages et son cout de plus en plus réduit...",
-    link: "/services#telecom",
+    title: "Technologie de l'information IT",
+    desc: "EXSON accompagne les sociétés algériennes dans le secteur énergétique, la santé, l'éducation et l'enseignement supérieur dans leur transformation digitale...",
+    link: "/nos-metiers/technologie-de-linformation-it",
   },
   {
     icon: ArrowUpDown,
     title: "Ascenseurs",
     desc: "EXSON installe les ascenseurs et vous propose des maintenances préventives et curatives selon votre choix...",
-    link: "/services#ascenseurs",
-  },
-  {
-    icon: Monitor,
-    title: "Réseaux informatiques",
-    desc: "EXSON accompagne les sociétés algériennes dans le secteur énergétique, la santé, l'éducation et l'enseignement supérieur, les établissements publics dans leur transformation digitale...",
-    link: "/services#reseaux",
+    link: "/nos-metiers/ascenseur",
   },
   {
     icon: Shield,
     title: "Systèmes de sécurité",
     desc: "Nous offrons des solutions adaptées à chaque client compte tenu des spécificités de chaque site, les attentes du client et le rapport qualité prix...",
-    link: "/services#securite",
+    link: "/nos-metiers/systeme-de-securite",
+  },
+  {
+    icon: Monitor,
+    title: "Études & Monitoring",
+    desc: "Notre équipe d'ingénieurs réalise des études techniques approfondies et met en place des solutions de monitoring en temps réel...",
+    link: "/nos-metiers/etudes-et-monitoring",
   },
 ];
 
