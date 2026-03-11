@@ -25,7 +25,7 @@ const About = () => {
               Qui sommes nous
             </h1>
             <p className="text-lg text-primary-foreground/80 leading-relaxed">
-              Depuis 2005, Exson DZ est un acteur majeur dans les télécommunications, les réseaux informatiques et les systèmes de sécurité en Algérie.
+              Exson est une société de service télécom, informatique et sécurité en Algérie, fondée en 2005.
             </p>
           </motion.div>
         </div>
@@ -46,13 +46,13 @@ const About = () => {
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  Fondée en 2005 à Akbou, dans la wilaya de Bejaia, Exson DZ est née de la vision de professionnels passionnés par les nouvelles technologies. Notre mission : accompagner les entreprises algériennes dans leur modernisation technologique.
+                  Fondée en 2005 à Akbou, dans la wilaya de Bejaia, Exson est née de la vision de professionnels passionnés par les nouvelles technologies.
                 </p>
                 <p>
-                  Au fil des années, nous avons élargi notre champ d'expertise pour couvrir l'ensemble des besoins en télécommunications, réseaux informatiques, vidéosurveillance, contrôle d'accès et ascenseurs.
+                  Forte de son expérience dans le domaine de l'étude et la réalisation des projets de télécommunication pour les grandes entreprises nationales, les projets relatifs au déploiement des réseaux informatique intranet et leurs sécurisations pour les PME algérienne.
                 </p>
                 <p>
-                  Aujourd'hui, avec plus de 500 projets réalisés et 200 clients professionnels, Exson DZ est reconnu comme un partenaire technologique de confiance dans toute la région.
+                  Aujourd'hui, avec plus de 500 projets réalisés et 200 clients professionnels, Exson est reconnu comme un partenaire technologique de confiance dans toute la région.
                 </p>
               </div>
             </motion.div>
@@ -66,7 +66,7 @@ const About = () => {
               <div className="absolute inset-0 flex items-center justify-center">
                 <div className="text-center">
                   <Building2 className="h-24 w-24 mx-auto text-accent/40" />
-                  <p className="text-primary-foreground/40 mt-6 font-heading font-bold text-xl">Exson DZ</p>
+                  <p className="text-primary-foreground/40 mt-6 font-heading font-bold text-xl">Exson</p>
                   <p className="text-primary-foreground/25 text-sm mt-1">Akbou, Bejaia</p>
                 </div>
               </div>
@@ -82,7 +82,7 @@ const About = () => {
             <Lightbulb className="h-10 w-10 mx-auto text-accent mb-4" />
             <h2 className="text-3xl font-heading font-black text-foreground mb-6">Notre mission</h2>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              Fournir des solutions technologiques innovantes, fiables et adaptées aux besoins spécifiques de chaque client. Nous nous engageons à offrir un service d'excellence, de la conception à la maintenance, en passant par l'installation et la formation.
+              Nous vous accompagnons dans vos projets de l'étude jusqu'à la réalisation. Nous apportons les solutions optimisées et adéquates et nous garantissons ainsi votre satisfaction entière.
             </p>
           </div>
         </div>
